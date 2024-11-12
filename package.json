@@ -11,9 +11,9 @@
     "lint": "eslint ./src --fix"
   },
   "keywords": [],
-  "author": "Sergio Regalado Alessi",
+  "author": "Pablo Chiroli",
   "license": "MIT",
-  "description": "Proyecto Base de Programación Backend I",
+  "description": "Proyecto Backend I",
   "dependencies": {
     "express": "^4.21.1",
     "moment": "^2.30.1",
